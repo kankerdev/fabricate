@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricate-assets-0.1.0.jar"
-hash = "645d1422f4d5e3b9e2afea624c9224d3fcab3b17ffed79995ce536b3dcfda86f"
+hash = "8236aa2334a885a70cbfeb2fb3cdc75f0fc77af295ecb527d15b5259bd81699b"
 
 [[files]]
 file = "mods/fadeless.pw.toml"
