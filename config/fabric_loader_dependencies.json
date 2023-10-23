@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "overrides": {
+        "fabricloader": {
+            "+depends": {
+                "fabricloader": "0.14.23"
+            }
+        },
+        "minecraft": {
+            "+recommends": {
+                "Fabricate": ">0.1.0"
+            }
+        },
+        "debugify": {
+            "recommends": {}
+        }
+    }
+}

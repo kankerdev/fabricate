@@ -1,0 +1,13 @@
+{
+    "mainmenu": {
+        "bottom_right": [
+            {
+                "text": "Fabricate 0.1.0",
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://youtu.be/2GXlAJPa-KM"
+                }
+            }
+        ]
+    }
+}
