@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "da8c2a0bb7241c4bfa87e69072ad8a91aaa46039e29e60edf67432d1901ab4c3"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "2844b2b70e2dcc0656a6761cd06d4921b7115d34383478185b892622179e5ba0"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "694627f6b08cfc28214f11b865793fe11032a18b374a154b004082a66a1f51fe"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "5d4f26deb11e83ae1e0c7a2836676eb2ed718a7fd6a59d7e5d44fe518aa0025c"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "897bb69dbd29d74b815648bb07c48b7bae5f98daf9b1e5ecc2df7c2187c916b9"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "79ea3b5efc0a981d715b00ffbefb7c2cf69932b950051623713590f2425013e7"
+
+[[files]]
+file = "config/yosbr/config/issxander-main-menu-credits.json"
+hash = "0a934e7d0afdfc2db1d8217cbba8f19862231ae56c62fee303656b54abfbbd53"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "3aa6c3cef24e45af56964e3d6889aff4682fa5f65c9096d0aa87084bddc487bc"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "34d1433eafe0bff89d236d2e576d3832f3fa911554340251165027634249fde3"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "e9c129d8c33109001d2fe54eab8fd60c85d0dd6b02d00e0ba2aa433d40886160"
 metafile = true
@@ -171,6 +207,10 @@ hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
 
 [[files]]
+file = "mods/fabricate-assets-0.1.0.jar"
+hash = "645d1422f4d5e3b9e2afea624c9224d3fcab3b17ffed79995ce536b3dcfda86f"
+
+[[files]]
 file = "mods/fadeless.pw.toml"
 hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
@@ -228,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "8f8650f906d35b4c6d7fb0040ae55fcfcfe51788d991bde0ea8415b66acabf29"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
@@ -373,4 +418,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
