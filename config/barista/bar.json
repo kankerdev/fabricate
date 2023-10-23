@@ -1,0 +1,31 @@
+{
+    "moduleList": [
+        {
+            "name": "icon",
+            "display": "true",
+            "context": "icon.png"
+        },
+        {
+            "name": "text",
+            "display": true,
+            "context": "Fabricate v0.1.0"
+        },
+        {
+            "name": "text",
+            "display": true,
+            "context": "Minecraft 1.20.1"
+        },
+        {
+            "name": "memory",
+            "display": true
+        },
+        {
+            "name": "fps",
+            "display": true
+        },
+        {
+            "name": "ping",
+            "display": true
+        }
+    ]
+}

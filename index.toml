@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/barista/bar.json"
+hash = "ad650b3b61f42bc3f1cb6d5c027af6ed544705a9a49e6538f5d14823875f8d0e"
+
+[[files]]
+file = "config/barista/icon/icon.png"
+hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "da8c2a0bb7241c4bfa87e69072ad8a91aaa46039e29e60edf67432d1901ab4c3"
+hash = "dc6adc9f8ca23b9e3239050720a883ba8b79a2301bbd53845a42d09159191ac2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -30,7 +38,7 @@ hash = "0a934e7d0afdfc2db1d8217cbba8f19862231ae56c62fee303656b54abfbbd53"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "3aa6c3cef24e45af56964e3d6889aff4682fa5f65c9096d0aa87084bddc487bc"
+hash = "83789ae45b6fe87d839b313d71d7c480984a2d4377c89e424f926f0a4752525d"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -67,6 +75,16 @@ hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
 
 [[files]]
+file = "mods/barista.pw.toml"
+hash = "a0201227ca76e1ffda3e263ac8a511485c774de2860f4a1c1ab104c2d0c900cb"
+metafile = true
+
+[[files]]
+file = "mods/better-log4j-config.pw.toml"
+hash = "a6a8ef4b8f5acbe5b834e453b873aa95adf7c1debf0ff546ce2eed5177f948c2"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "655b5ad4c7f638c45a4424a98431c41bfc68caebb5367ca38a262abd78bf5f7a"
 metafile = true
@@ -74,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "f9572e3411ba862d58df58b465a3aa33357c621f4346da987b3f616f70baf5ee"
+metafile = true
+
+[[files]]
+file = "mods/branded-logs.pw.toml"
+hash = "0264a629a53773676002bbeaf54be316b94a580e3ecc06f5fc232c769ace3150"
 metafile = true
 
 [[files]]
@@ -261,6 +284,11 @@ hash = "cd9e975f57957445016f58556136ed293ad29919ac5735aaa587d5c5c251aac0"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "86ce30ccc9a035c6249d8140abf8d0fae7f828472913409b3febf46394bbc34d"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "199ebd25a5099e903ee66b4a879d67f43497cc5a050ed25972dd832a05c20302"
 metafile = true
@@ -366,6 +394,11 @@ hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
+file = "mods/shut-up-gl-error.pw.toml"
+hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
@@ -386,6 +419,11 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "daeec6e32a564883d796749c66e372463b2ecadf45d95e7b05f4e984cda80d91"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
@@ -393,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "70bc0cf02e30f3c04bd0691237f227e79198944c36fc65eff4e6a88c647b0121"
 metafile = true
 
 [[files]]

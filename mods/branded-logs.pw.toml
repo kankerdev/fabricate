@@ -1,0 +1,13 @@
+name = "Branded Logs"
+filename = "brandedlogs-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tbktcZz2/versions/UJ92OhP6/brandedlogs-1.0.1.jar"
+hash-format = "sha1"
+hash = "39ef20f73c9cbab05326da8d9cdc1e55d6295123"
+
+[update]
+[update.modrinth]
+mod-id = "tbktcZz2"
+version = "UJ92OhP6"
