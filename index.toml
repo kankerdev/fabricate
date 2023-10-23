@@ -419,6 +419,11 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
+file = "mods/splashes+.pw.toml"
+hash = "7076cf0f1cd5f3d0524b9973bda2867794d31267e2d39b5c891ecbce61174596"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "daeec6e32a564883d796749c66e372463b2ecadf45d95e7b05f4e984cda80d91"
 metafile = true
