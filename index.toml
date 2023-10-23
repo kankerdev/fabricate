@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricate-assets-0.1.0.jar"
-hash = "8236aa2334a885a70cbfeb2fb3cdc75f0fc77af295ecb527d15b5259bd81699b"
+hash = "4d0f49de2fb574c7939f6e955b307e877c87f47513a6054b4a5b11c5c4bdbd90"
 
 [[files]]
 file = "mods/fadeless.pw.toml"
@@ -416,11 +416,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
-metafile = true
-
-[[files]]
-file = "mods/splashes+.pw.toml"
-hash = "7076cf0f1cd5f3d0524b9973bda2867794d31267e2d39b5c891ecbce61174596"
 metafile = true
 
 [[files]]
