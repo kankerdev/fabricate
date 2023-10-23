@@ -6,7 +6,7 @@ hash = "da8c2a0bb7241c4bfa87e69072ad8a91aaa46039e29e60edf67432d1901ab4c3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2844b2b70e2dcc0656a6761cd06d4921b7115d34383478185b892622179e5ba0"
+hash = "5325a2866ad915504ade6b39b8405e29a77128845ab3f7b9a5b459ae37ecd22e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -25,7 +25,7 @@ file = "config/yosbr/config/debugify.json"
 hash = "79ea3b5efc0a981d715b00ffbefb7c2cf69932b950051623713590f2425013e7"
 
 [[files]]
-file = "config/yosbr/config/issxander-main-menu-credits.json"
+file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "0a934e7d0afdfc2db1d8217cbba8f19862231ae56c62fee303656b54abfbbd53"
 
 [[files]]
