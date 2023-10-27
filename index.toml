@@ -274,6 +274,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/inventorio.pw.toml"
+hash = "f89e851b9b254a3bfc5315021ccd6d739061978d98284a3681dc24b251f7d812"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "8562de954c3f955262c032b906133826b2f5c442d58ddc8d79cea420979f2d93"
 metafile = true
