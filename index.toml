@@ -284,11 +284,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "da464c6fa3ad18381228455f25eab0f88350bf57b0f875a5db1caa2fa8b3883b"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
@@ -502,3 +497,7 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger-2.0.0-alpha.6.jar"
+hash = "c46be9e16c5580aa04dcf9e2f44c7c299c1124b3a4be9d3d31f99bf0a0b883e5"
