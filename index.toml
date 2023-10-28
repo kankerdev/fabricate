@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "9c7944431e75580a5890dfb4a78f7efe6d5669dd95b1f0eaf25438cb1b51ef79"
+hash = "721ce7c5bbf5e719cbbc5d9bbb326dbe3469c9ed876423bfd89972d7da69059e"
 metafile = true
 
 [[files]]
@@ -220,6 +220,11 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/energized-power.pw.toml"
+hash = "89b427445f4a624558395d6cf6c65305781250e73a21a5fec5b8b9a0ca17c3e3"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -274,6 +279,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/fullblock-energistics.pw.toml"
+hash = "5426436f01ab6820e3ade3676663c98bb3bc9d54524fb14da8a5314b6fa9693f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
@@ -290,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "8562de954c3f955262c032b906133826b2f5c442d58ddc8d79cea420979f2d93"
+hash = "e0211752910bc1719689fa49585776462935b4bb575900e01000b766b46132f6"
 metafile = true
 
 [[files]]
@@ -414,11 +424,6 @@ hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
 metafile = true
 
 [[files]]
-file = "mods/slabby.pw.toml"
-hash = "5471a92fd586b3f017fc2e12bdea7381258d4b28277e70594422fea2f939ec97"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
@@ -470,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "4e34ef6f58a17523c6fbfd210277a9871ee39a1f0d30e9906edd69d9a1ac0755"
+hash = "da7fa0d532870ab39cef825b5df1993a80d0001a63e62dfba51d767fe16f96a5"
 metafile = true
 
 [[files]]
