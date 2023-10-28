@@ -220,11 +220,6 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "48f422e0435d5a3fc58a03fe9a35369719ad439bdcc6fb6b5c856ea1979eb2ad"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -416,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/shut-up-gl-error.pw.toml"
 hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
+metafile = true
+
+[[files]]
+file = "mods/slabby.pw.toml"
+hash = "5471a92fd586b3f017fc2e12bdea7381258d4b28277e70594422fea2f939ec97"
 metafile = true
 
 [[files]]
