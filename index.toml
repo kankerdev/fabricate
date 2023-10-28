@@ -175,11 +175,6 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
-file = "mods/craft-slabs-back-into-blocks.pw.toml"
-hash = "d0b2182477538415554bc2cc51dd81f0599913a0aa67951f6f87e2fe880ebb9f"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
