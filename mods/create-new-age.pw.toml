@@ -1,13 +1,13 @@
 name = "Create: New Age"
-filename = "create-new-age-fabric-1.20.1-1.0.1.jar"
+filename = "create-new-age-fabric-1.20.1-1.1.pre1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/WCDx7Wfc/create-new-age-fabric-1.20.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/1PPcbRSB/create-new-age-fabric-1.20.1-1.1.pre1.jar"
 hash-format = "sha1"
-hash = "f7b4c99bdb830d189391c5998a3cf71191ca5f80"
+hash = "dc2429f516d3af114eae297cad69cec353039f99"
 
 [update]
 [update.modrinth]
 mod-id = "FTeXqI9v"
-version = "WCDx7Wfc"
+version = "1PPcbRSB"
