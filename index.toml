@@ -17,6 +17,18 @@ file = "config/isxander-main-menu-credits.json"
 hash = "5325a2866ad915504ade6b39b8405e29a77128845ab3f7b9a5b459ae37ecd22e"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "3af41a502815600f1cd2440d327f68b164b250414aac44c0354adb342c290282"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "694627f6b08cfc28214f11b865793fe11032a18b374a154b004082a66a1f51fe"
 
@@ -37,8 +49,16 @@ file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "0a934e7d0afdfc2db1d8217cbba8f19862231ae56c62fee303656b54abfbbd53"
 
 [[files]]
+file = "config/yosbr/config/jade/jade.json"
+hash = "ea11508660985a7d4eae2a62884a7000d6973e7c6368b9b99769ccffccb3c90c"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "83789ae45b6fe87d839b313d71d7c480984a2d4377c89e424f926f0a4752525d"
+
+[[files]]
+file = "config/yosbr/config/raised.json"
+hash = "976d89951708e13a93467f10965fab20a4c6e06158689aafb4c6d768fd7dc6f4"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
