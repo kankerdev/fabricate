@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "721ce7c5bbf5e719cbbc5d9bbb326dbe3469c9ed876423bfd89972d7da69059e"
+hash = "b0e70adfb7f19c394fcc2b862839f3cb70be027cba275c2e7ff42b7aad75bfc1"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "0159525d452d7e755045223330b3bfc0a3df5491c4a83beee9f00af0b68b8758"
+hash = "4c47dc1b5aa64bf99ea79086f02fc4d1bc79922098fc2c0e3d84a68e3c36dd10"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "af8f371634dbcd6e5b6db30c3d77d5ea4bffcabae43a635af81a6327dad717a9"
+hash = "7315f8be08ca7069ed72746d12e36e81b7959136d0b0c789e16cdb5db8a87dfe"
 metafile = true
 
 [[files]]
@@ -246,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
+metafile = true
+
+[[files]]
+file = "mods/expandingtechnologies.pw.toml"
+hash = "9d8afc1edc6f66525563cc86b4b39283fb5cddc48fe9afc8e2c9f8fa0a6884dc"
 metafile = true
 
 [[files]]
@@ -318,6 +323,16 @@ hash = "f89e851b9b254a3bfc5315021ccd6d739061978d98284a3681dc24b251f7d812"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "f150264c0991c3faa578a2669ccfb3964850f6d759acc84dad0b545abd9c8915"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "457884a81ab409eba09b3f0ac7a4581e9ae03c13934375e03eb552d4069e1364"
 metafile = true
@@ -369,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "38e09475523aea60955a0495a1e65fef450b83ed1be3c62c0fb0f3fa1f6f80f3"
+hash = "e0e8c3e60bac3df37dd6d4ea9d1a5ea91807727ef797b557996d4e4062219d90"
 metafile = true
 
 [[files]]
@@ -409,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
-hash = "6d44c61d60b06e5f33787a59919a82b748d5ebf905721dc06d71e40a860df1ef"
+hash = "dbc5b0fb40cde6e80b74672dffb4db95bd74d3b2097614edd5748a447332e705"
 metafile = true
 
 [[files]]
@@ -434,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "af8bd290a5c7d75986905bf1b433e238e14933539836ac7bc37be02b3dcd6613"
+hash = "c7bf46dfca5cae2d262d2bde16a07c2671f4ae736d17f39338778ff42a712b6f"
 metafile = true
 
 [[files]]
@@ -500,11 +515,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "da7fa0d532870ab39cef825b5df1993a80d0001a63e62dfba51d767fe16f96a5"
 metafile = true
 
 [[files]]
