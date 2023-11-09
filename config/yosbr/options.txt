@@ -13,3 +13,9 @@ joinedFirstServer:true
 telemetryOptInExtra:false
 onboardAccessibility:false
 fov:0.5
+
+key_key.amecs.toggle_auto_jump:key.keyboard.unknown
+
+key_gui.xaero_zoom_in:key.keyboard.equal
+key_gui.xaero_zoom_out:key.keyboard.minus
+key_gui.xaero_enlarge_map:key.keyboard.right.bracket

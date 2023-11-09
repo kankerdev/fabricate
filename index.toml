@@ -45,6 +45,10 @@ file = "config/yosbr/config/debugify.json"
 hash = "79ea3b5efc0a981d715b00ffbefb7c2cf69932b950051623713590f2425013e7"
 
 [[files]]
+file = "config/yosbr/config/emi.css"
+hash = "4b9f47ac9fe1df887e687570a5cba9453d999fc4a0121b3902a7efdceb42b14a"
+
+[[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "0a934e7d0afdfc2db1d8217cbba8f19862231ae56c62fee303656b54abfbbd53"
 
@@ -66,7 +70,32 @@ hash = "452d006ba4f13c1a7c43ad5c59ba6a38b7aea3c81799c362a93606bce11638c0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "34d1433eafe0bff89d236d2e576d3832f3fa911554340251165027634249fde3"
+hash = "bc304d32ebaac5d12f79e8aed01979006fa84016b28088cc24c440e94741b039"
+
+[[files]]
+file = "config/yosbr/xaerominimap-common.txt"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+
+[[files]]
+file = "config/yosbr/xaerominimap.txt"
+hash = "26a526a5f078ee1d79b6402a9a0344f0ff3587fa50579f36fd1f5ce654ecd1d3"
+
+[[files]]
+file = "config/yosbr/xaerominimap_entities.json"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+
+[[files]]
+file = "config/yosbr/xaeroworldmap-common.txt"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+
+[[files]]
+file = "config/yosbr/xaeroworldmap.txt"
+hash = "051e6deca867cbc8356453350f4a2a5c072fc2851e590c1011f1513df8191325"
+
+[[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "27bee2dec0693db30bc4a8981d1409d7075f1515ea379f70f3c897a76ec49970"
+metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -239,13 +268,43 @@ hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
-file = "mods/createfabricreibugfix.pw.toml"
-hash = "5c4463d9b082ee1e4c9faa67734814296c0f4795735da2e298d7a0f8ddaf059b"
+file = "mods/debugify.pw.toml"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+file = "mods/dynamic-lights.pw.toml"
+hash = "deb593fe7568d28fd43189fd08ba5986a24543fc2867c00c61a973da75fbdbc6"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "9916903175abd5cbb0232340993177b402182ee325e2ae7521f83209355f3bc7"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "69011a0995a38192da0a4a102a4c669345a27410d86d3029bd1c81d23b7d9499"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "9884c9af4ba83cbdf8bc6b102a257068566641a17d2c6dde63dcf41d0dd0603e"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "6395441f751bc9aca4cd024df876b9f7abbfc53d8911f5264c5c36eabbb21c82"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
 metafile = true
 
 [[files]]
@@ -259,11 +318,6 @@ hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
 metafile = true
@@ -271,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/expandingtechnologies.pw.toml"
 hash = "9d8afc1edc6f66525563cc86b4b39283fb5cddc48fe9afc8e2c9f8fa0a6884dc"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
 metafile = true
 
 [[files]]
@@ -463,18 +522,8 @@ hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "ae9f8aab8ab115688b981f290bc59db0de3b982e0a828b2ece38c41130b46a08"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "c7bf46dfca5cae2d262d2bde16a07c2671f4ae736d17f39338778ff42a712b6f"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "099f4613975cba72fd83510efccfa85c4c15e446aebf082584c24e87f2ab918e"
 metafile = true
 
 [[files]]
