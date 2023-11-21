@@ -14,7 +14,7 @@ hash = "3380fa413f2eed1ec07842aa63e808223ae1306ae5b36bc622ceeda102bade87"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7cd7bf773ab143f04ab1e476ca2c45997650ad0b33b4c21a69dd6077bb96fc55"
+hash = "519e6afc00e495b977ddfef38114634c787d1c7ef007f60b4c060cc756f6762c"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -419,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+metafile = true
+
+[[files]]
+file = "mods/liquid-burner.pw.toml"
+hash = "a9cc8ca630a6e275d4df79ff1b14a4a60d7d0da4f7b9ebc10d9c26ddf1e68de8"
 metafile = true
 
 [[files]]
