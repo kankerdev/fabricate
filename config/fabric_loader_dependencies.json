@@ -7,7 +7,7 @@
             }
         },
         "minecraft": {
-            "+recommends": {
+            "+depends": {
                 "fabricate-assets": ">=0.1.0"
             }
         },

@@ -1,0 +1,13 @@
+name = "Elytra Nerf"
+filename = "elytra-nerf-1.0.1+1.20.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FjX26VgR/versions/N550RAtr/elytra-nerf-1.0.1%2B1.20.2.jar"
+hash-format = "sha1"
+hash = "2e0ccd94b35a57c93e458eca5e7948f670f03676"
+
+[update]
+[update.modrinth]
+mod-id = "FjX26VgR"
+version = "N550RAtr"

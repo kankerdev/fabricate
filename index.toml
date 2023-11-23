@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "0e51dda735f99c304dcaf73c1dd9eea34af6a3510ab33b44a394b0992c9e496c"
+hash = "6915d4e2fa8b14e13c042e95145cbe30faac5667b7fb81ff0ad01eb32fe9847e"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -14,11 +14,11 @@ hash = "6d6b74fa7e3b91f5dc82188fb643e4f6a8e7d8108b39eff935c14469e01c3b7c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3380fa413f2eed1ec07842aa63e808223ae1306ae5b36bc622ceeda102bade87"
+hash = "9de4a41b8615b7014d47946f03d6d256fb8cffc1ed19313625f15dcdfc1b249b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "519e6afc00e495b977ddfef38114634c787d1c7ef007f60b4c060cc756f6762c"
+hash = "82eca37f33348b79d758db1cf21d378317bceca3349e9faecceead7156ef2d0d"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -97,6 +97,10 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "9e7a83dd45ab10cf489753883d882eec29fb2875f4ec8b5efd200c472f0ec369"
 
 [[files]]
+file = "config/yosbr/dynamiccrosshair.json5"
+hash = "5564271012f35898e806d51b64df69f3803ccf13e4525a1c96369a43db67d1bc"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "bc304d32ebaac5d12f79e8aed01979006fa84016b28088cc24c440e94741b039"
 
@@ -121,6 +125,11 @@ file = "config/yosbr/xaeroworldmap.txt"
 hash = "051e6deca867cbc8356453350f4a2a5c072fc2851e590c1011f1513df8191325"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+metafile = true
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "27bee2dec0693db30bc4a8981d1409d7075f1515ea379f70f3c897a76ec49970"
 metafile = true
@@ -133,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/amecs.pw.toml"
 hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
+metafile = true
+
+[[files]]
+file = "mods/anvilfix.pw.toml"
+hash = "aed66354bca15a6dce888ea63ba18532be7110501b6fbe14ccb846d6c5ec4175"
 metafile = true
 
 [[files]]
@@ -166,6 +180,11 @@ hash = "f2a3a436d5498e539230aa1936ac1009e4b140eda402b654b4a160431e7f517a"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+metafile = true
+
+[[files]]
 file = "mods/better-log4j-config.pw.toml"
 hash = "a6a8ef4b8f5acbe5b834e453b873aa95adf7c1debf0ff546ce2eed5177f948c2"
 metafile = true
@@ -187,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "303cff3c9d5199d1f11d0074499d5ae6511ea01cd1c736b9faddfc8a6daea06b"
+hash = "5636f58a791fd425639a8fc45b920d12959838f6e461bc55795eabe266bab53b"
 metafile = true
 
 [[files]]
@@ -222,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "88605ec9e749cc31ceca946f8be4a64fe1847877f59908011522d3e8c3d84c93"
+hash = "5d0c60e5bc5b0a7e61ee5dc399c117c542cc3ccf861ae741ef61f9d73d6e7f96"
 metafile = true
 
 [[files]]
@@ -316,6 +335,16 @@ hash = "69011a0995a38192da0a4a102a4c669345a27410d86d3029bd1c81d23b7d9499"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "073795fff0829c88707bdd7774faa544034d6a6ea375f1366b5220047450cfc3"
+metafile = true
+
+[[files]]
+file = "mods/elytra-nerf.pw.toml"
+hash = "604743734fb957f47e7ce8140f1124e0898082eec40a81899b1a662d844c2a14"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
@@ -380,6 +409,11 @@ hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
@@ -412,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/fullblock-energistics.pw.toml"
 hash = "5426436f01ab6820e3ade3676663c98bb3bc9d54524fb14da8a5314b6fa9693f"
+metafile = true
+
+[[files]]
+file = "mods/ice-boat-nerf.pw.toml"
+hash = "2822d64c5795087ffb94d8c62590eda4f2d9d7ccfd3bfd68b25cc0295d7d2e1f"
 metafile = true
 
 [[files]]
@@ -492,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
 
 [[files]]
@@ -617,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
 metafile = true
 
 [[files]]
