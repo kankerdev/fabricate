@@ -9,6 +9,10 @@ file = "config/barista/icon/icon.png"
 hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
+file = "config/debugify.json"
+hash = "6d6b74fa7e3b91f5dc82188fb643e4f6a8e7d8108b39eff935c14469e01c3b7c"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "3380fa413f2eed1ec07842aa63e808223ae1306ae5b36bc622ceeda102bade87"
 
@@ -29,6 +33,10 @@ file = "config/jade/plugins.json"
 hash = "3af41a502815600f1cd2440d327f68b164b250414aac44c0354adb342c290282"
 
 [[files]]
+file = "config/yosbr/config/MouseTweaks.cfg"
+hash = "b9f935459f3a1f197343b504b6b7c5b2b139fb3d22cd41384af9d1fd36a4c304"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "694627f6b08cfc28214f11b865793fe11032a18b374a154b004082a66a1f51fe"
 
@@ -39,6 +47,18 @@ hash = "5d4f26deb11e83ae1e0c7a2836676eb2ed718a7fd6a59d7e5d44fe518aa0025c"
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "897bb69dbd29d74b815648bb07c48b7bae5f98daf9b1e5ecc2df7c2187c916b9"
+
+[[files]]
+file = "config/yosbr/config/ae2/client.json"
+hash = "e929b2567a1316d4d1db22f13995226dc729930e3758ec553e3ec10b5def4f3b"
+
+[[files]]
+file = "config/yosbr/config/ae2/common.json"
+hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
+
+[[files]]
+file = "config/yosbr/config/create-client.toml"
+hash = "af1964be1800426eeb0bc17442b0da7f54b3f70f6fe3179b432b1557dfcd2c42"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -67,6 +87,14 @@ hash = "976d89951708e13a93467f10965fab20a4c6e06158689aafb4c6d768fd7dc6f4"
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "452d006ba4f13c1a7c43ad5c59ba6a38b7aea3c81799c362a93606bce11638c0"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "510f5266423868f9310d80a14df773f6df795aea424187857330c596e97a61b3"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "9e7a83dd45ab10cf489753883d882eec29fb2875f4ec8b5efd200c472f0ec369"
 
 [[files]]
 file = "config/yosbr/options.txt"
