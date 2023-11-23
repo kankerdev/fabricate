@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "3869619de9caed73b5dde822b751e451798059aa22ef6aef6bcb4b68c98e5e43"
+hash = "0e51dda735f99c304dcaf73c1dd9eea34af6a3510ab33b44a394b0992c9e496c"
 
 [[files]]
 file = "config/barista/icon/icon.png"
