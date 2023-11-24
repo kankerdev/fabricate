@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ae2/common.json"
+hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
+
+[[files]]
 file = "config/barista/bar.json"
 hash = "6915d4e2fa8b14e13c042e95145cbe30faac5667b7fb81ff0ad01eb32fe9847e"
 
@@ -51,10 +55,6 @@ hash = "897bb69dbd29d74b815648bb07c48b7bae5f98daf9b1e5ecc2df7c2187c916b9"
 [[files]]
 file = "config/yosbr/config/ae2/client.json"
 hash = "e929b2567a1316d4d1db22f13995226dc729930e3758ec553e3ec10b5def4f3b"
-
-[[files]]
-file = "config/yosbr/config/ae2/common.json"
-hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/yosbr/config/create-client.toml"
@@ -157,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "7b264a2274bf9d1a5a87a0f7b605791227d2cc2702214d1ab222221c9fc1f9ab"
 metafile = true
 
 [[files]]
