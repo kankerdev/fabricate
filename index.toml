@@ -6,7 +6,7 @@ hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "6915d4e2fa8b14e13c042e95145cbe30faac5667b7fb81ff0ad01eb32fe9847e"
+hash = "c34d289e512c8309fc16790d6b254a41f43871b4b5f6cd52ebc4d7b529b4262f"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -22,7 +22,7 @@ hash = "9de4a41b8615b7014d47946f03d6d256fb8cffc1ed19313625f15dcdfc1b249b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "82eca37f33348b79d758db1cf21d378317bceca3349e9faecceead7156ef2d0d"
+hash = "d7ffd73cc9edbfff239c0c43176e93758463b3156b3084ec2b7f467d3019b7bc"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -172,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/barista.pw.toml"
 hash = "a0201227ca76e1ffda3e263ac8a511485c774de2860f4a1c1ab104c2d0c900cb"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
@@ -429,6 +434,11 @@ hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "770bf53b93096e25bb6a04c9089a29dad96e4e32ee58ab46fbf533711a63791d"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
@@ -441,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "81cb55170d352d0e7786b5a3f7c6f2ceeecd1f52c4559ee423598b4d62e10af6"
 metafile = true
 
 [[files]]
@@ -524,6 +539,11 @@ hash = "53faa690c0eecc98870a5d785cb1772e1f37eabf9a3ee0beebfc53641abade05"
 metafile = true
 
 [[files]]
+file = "mods/missions.pw.toml"
+hash = "023c89d2210374f41af4a19aa72614c2ca9a6cb1601348d3aa1bc9122b43b3d1"
+metafile = true
+
+[[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
@@ -571,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "69af36e0a1e29e69ccecf4379845a5b25f2a00b9b0c2209d24437a3bac7cf9d0"
+metafile = true
+
+[[files]]
+file = "mods/overworld-coordinates.pw.toml"
+hash = "6fc1797bdeb55a75095866d18525f8a918168b1617907c70ff9c6161ebeae85a"
 metafile = true
 
 [[files]]
@@ -646,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "f4899afec6500b2a8e3f061abbb6bc34287f3f6992b9e24ba4706d4dad825cc4"
 metafile = true
 
 [[files]]
