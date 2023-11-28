@@ -737,11 +737,6 @@ hash = "70bc0cf02e30f3c04bd0691237f227e79198944c36fc65eff4e6a88c647b0121"
 metafile = true
 
 [[files]]
-file = "mods/url-music-discs.pw.toml"
-hash = "3df75e1a97ba5ca1de0af4ca1bbd9f5aa1169c646340f88526e908e8fb76bfb4"
-metafile = true
-
-[[files]]
 file = "mods/vanilla-permissions.pw.toml"
 hash = "07f7ec6edd1deefe5cf36f83104374ba2a28b44a0877984e5030e3a4e4de5854"
 metafile = true
