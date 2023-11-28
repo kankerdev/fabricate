@@ -16,6 +16,15 @@
         },
         "railways": {
             "recommends": {}
+        },
+        "wildfire_gender": {
+            "recommends": {}
+        },
+        "dynamiclights": {
+            "recommends": {}
+        },
+        "overworld_coordinates": {
+            "recommends": {}
         }
     }
 }
