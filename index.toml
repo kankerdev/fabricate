@@ -472,6 +472,11 @@ hash = "26c1620180c65d816280a96354065a9124696e71c1795b4a020c925cef21e271"
 metafile = true
 
 [[files]]
+file = "mods/fog-looks-good-now-fabric.pw.toml"
+hash = "5885e54b30087ff1e995df3851ae9bd33cfda07b1c6173253e59cb102f14cedf"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
