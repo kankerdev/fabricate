@@ -13,6 +13,10 @@ file = "config/barista/icon/icon.png"
 hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "4079acdf553929f194fa8c3ef2e6ec5a1401caf58bb33e3fcb86f5115a930519"
+
+[[files]]
 file = "config/debugify.json"
 hash = "6d6b74fa7e3b91f5dc82188fb643e4f6a8e7d8108b39eff935c14469e01c3b7c"
 
@@ -35,6 +39,10 @@ hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
 [[files]]
 file = "config/jade/plugins.json"
 hash = "3af41a502815600f1cd2440d327f68b164b250414aac44c0354adb342c290282"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "1eff15346e9384b73fcc7b152ca1d2d7aed6f4b673e5ead83ed0c9efe4de5ea8"
 
 [[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
@@ -157,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/async-locator.pw.toml"
+hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
 
 [[files]]
@@ -479,6 +492,11 @@ hash = "5426436f01ab6820e3ade3676663c98bb3bc9d54524fb14da8a5314b6fa9693f"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
+metafile = true
+
+[[files]]
 file = "mods/ice-boat-nerf.pw.toml"
 hash = "2822d64c5795087ffb94d8c62590eda4f2d9d7ccfd3bfd68b25cc0295d7d2e1f"
 metafile = true
@@ -514,6 +532,11 @@ hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6444249aa1ed76a7af265c0ca3f0883be0c2c1837cd5c1080455dad5b5a30cda"
 metafile = true
@@ -521,6 +544,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+metafile = true
+
+[[files]]
+file = "mods/libre-exp-fix.pw.toml"
+hash = "4d87a50b62fc5ad46f610e0fde045eea11c1972a4f60d8765a54230f39b622f4"
 metafile = true
 
 [[files]]
@@ -616,6 +644,11 @@ metafile = true
 [[files]]
 file = "mods/overworld-coordinates.pw.toml"
 hash = "6fc1797bdeb55a75095866d18525f8a918168b1617907c70ff9c6161ebeae85a"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
@@ -716,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/videotape.pw.toml"
 hash = "3f58f4bd5a957695712365d0f3aa78bc93744a2d57e992dda4c1fb69ffbc2b88"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "d516609512f43f65777600e5ef45dacedd6b1c8bc5311b757b6c342999f1d8d5"
 metafile = true
 
 [[files]]
