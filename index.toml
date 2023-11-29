@@ -632,6 +632,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/panorama-screens.pw.toml"
+hash = "292f24e508a7f38609d20117e18f27508dbd1311b98fd3bf7b590c239ba59e33"
+metafile = true
+
+[[files]]
 file = "mods/ponder.pw.toml"
 hash = "080841a8b0577b06811209e2ea409f3901098a3ad3fecbec43005590cf10df4b"
 metafile = true
