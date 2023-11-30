@@ -1,0 +1,13 @@
+name = "Biome Compass: Maya Edition"
+filename = "biomecompass-2.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IPBNX8hi/versions/sqdr8bKD/biomecompass-2.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "a9bc40280becb505e3a603a4051fe4f8bac5558e"
+
+[update]
+[update.modrinth]
+mod-id = "IPBNX8hi"
+version = "sqdr8bKD"

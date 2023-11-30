@@ -233,6 +233,16 @@ hash = "5636f58a791fd425639a8fc45b920d12959838f6e461bc55795eabe266bab53b"
 metafile = true
 
 [[files]]
+file = "mods/biome-compass.pw.toml"
+hash = "c41aba428df01df6f64f4ab5ff7cdcd8fa49332e610866fdefc5ea8fb86e9e9b"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "e517fb482a615ff0cd06d369b3a5b61080a12dc57ee04ee54ecd3b05cb0142fa"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
 metafile = true
@@ -260,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "cf7630fc7cb67645d9721797b28b300ac24506ae7d21c2b615edec015a181536"
+metafile = true
+
+[[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "7e9bb2ac8dc65f272e8e240a2b251e283f63a37a78500611872d95170d467e49"
 metafile = true
 
 [[files]]
@@ -442,6 +457,11 @@ hash = "8da27b38858e516c3031685384ca90705b33a48ddafa04d89df9f9f6cf0dd355"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "2f3e107ff24aa23db88bcadf4ca954005a144a666304cddad092ecf071b5f6ed"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -499,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/inventorio.pw.toml"
 hash = "f89e851b9b254a3bfc5315021ccd6d739061978d98284a3681dc24b251f7d812"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f7db0919b2d982290a3ef42f368d65e69c7b84a5815da8ec8122aafa9c3410bf"
 metafile = true
 
 [[files]]
@@ -567,6 +592,11 @@ hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
+file = "mods/mc-249136-fix.pw.toml"
+hash = "a795babd2cbfc727869fcdec720154f7e8b890c69bf25535e2e9e57afc6d8058"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
@@ -577,8 +607,23 @@ hash = "53faa690c0eecc98870a5d785cb1772e1f37eabf9a3ee0beebfc53641abade05"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
 file = "mods/missions.pw.toml"
 hash = "023c89d2210374f41af4a19aa72614c2ca9a6cb1601348d3aa1bc9122b43b3d1"
+metafile = true
+
+[[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "1b73c691aa6806ba348bed52a276735572336e46699c4d3330e37df20a3b59c9"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "85a9c654f8d7c21db849ffe58f7e53df91f95c6fa4b56740860487f7bb0b60ad"
 metafile = true
 
 [[files]]
@@ -732,6 +777,11 @@ hash = "70bc0cf02e30f3c04bd0691237f227e79198944c36fc65eff4e6a88c647b0121"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-permissions.pw.toml"
 hash = "07f7ec6edd1deefe5cf36f83104374ba2a28b44a0877984e5030e3a4e4de5854"
 metafile = true
@@ -754,6 +804,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
+metafile = true
+
+[[files]]
+file = "mods/worldspecificviewdistance.pw.toml"
+hash = "9e0e55ffea464146b1c9cacbe7e522c826e461a0bd629d3d4b0042883f6586d4"
 metafile = true
 
 [[files]]

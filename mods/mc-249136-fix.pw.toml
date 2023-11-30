@@ -1,0 +1,13 @@
+name = "MC-249136 Fix"
+filename = "mc249136-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QzMW0gl4/versions/KShgul52/mc249136-1.0.1.jar"
+hash-format = "sha1"
+hash = "df91e61fd1c060f7d609fc5a7e48b86cffcbaef3"
+
+[update]
+[update.modrinth]
+mod-id = "QzMW0gl4"
+version = "KShgul52"
