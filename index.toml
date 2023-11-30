@@ -427,11 +427,6 @@ hash = "8da27b38858e516c3031685384ca90705b33a48ddafa04d89df9f9f6cf0dd355"
 metafile = true
 
 [[files]]
-file = "mods/fast-portals.pw.toml"
-hash = "cbe9f4f6c29835f35093c45f64d98acad594f4cf9a2b919d0d6c7255d939e5ef"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
