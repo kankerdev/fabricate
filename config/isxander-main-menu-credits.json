@@ -2,7 +2,7 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "Fabricate v0.1.5",
+                "text": "Fabricate v0.1.6",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://youtu.be/2GXlAJPa-KM"
