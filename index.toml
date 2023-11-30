@@ -318,6 +318,11 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/deuf-refabricated.pw.toml"
+hash = "3ac958ad3ae67e8c2315b7f3551076fa69f34de73a91eb8e8394ff815db9b0b2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "deb593fe7568d28fd43189fd08ba5986a24543fc2867c00c61a973da75fbdbc6"
 metafile = true
