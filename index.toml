@@ -462,11 +462,6 @@ hash = "81cb55170d352d0e7786b5a3f7c6f2ceeecd1f52c4559ee423598b4d62e10af6"
 metafile = true
 
 [[files]]
-file = "mods/fullblock-energistics.pw.toml"
-hash = "5426436f01ab6820e3ade3676663c98bb3bc9d54524fb14da8a5314b6fa9693f"
-metafile = true
-
-[[files]]
 file = "mods/gotta-go-fast-fabric.pw.toml"
 hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
 metafile = true
