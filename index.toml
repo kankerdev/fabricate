@@ -283,6 +283,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
 file = "mods/create-garnished.pw.toml"
 hash = "cb9fdb09d560c15845c4f74f39452afcc5c85c8b11c862079a9f01161e96db68"
 metafile = true
@@ -629,11 +634,6 @@ metafile = true
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "dbc5b0fb40cde6e80b74672dffb4db95bd74d3b2097614edd5748a447332e705"
-metafile = true
-
-[[files]]
-file = "mods/prominent-create.pw.toml"
-hash = "41fc4e1a4e51710f67da7a1159eccfa8c1f1a4e2607cd285b40fe55817f8363c"
 metafile = true
 
 [[files]]
