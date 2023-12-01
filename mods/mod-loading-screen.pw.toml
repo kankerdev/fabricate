@@ -1,0 +1,8 @@
+name = "mod-loading-screen"
+filename = "mod-loading-screen-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.kanker.dev/mod-loading-screen-1.0.4.jar"
+hash-format = "sha256"
+hash = "aeed0b85fe07df8d83a07bb7ecd316e44542043e1f6ed11d56fb1dc0bb6eabf1"

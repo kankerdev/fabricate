@@ -448,8 +448,9 @@ hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
 metafile = true
 
 [[files]]
-file = "mods/fabricate-assets-0.1.0.jar"
-hash = "4d0f49de2fb574c7939f6e955b307e877c87f47513a6054b4a5b11c5c4bdbd90"
+file = "mods/fabricate-assets.pw.toml"
+hash = "2cd1fbae05456e9c7f5d4e8b64b1b9a80c3c25898cb1931405cbeb5bc0dea9c7"
+metafile = true
 
 [[files]]
 file = "mods/fadeless.pw.toml"
@@ -642,8 +643,9 @@ hash = "85a9c654f8d7c21db849ffe58f7e53df91f95c6fa4b56740860487f7bb0b60ad"
 metafile = true
 
 [[files]]
-file = "mods/mod-loading-screen-1.0.4.jar"
-hash = "aeed0b85fe07df8d83a07bb7ecd316e44542043e1f6ed11d56fb1dc0bb6eabf1"
+file = "mods/mod-loading-screen.pw.toml"
+hash = "adc62731dc6b00a9fcaa122336f4a0b3ac154250b1f2f4d16e2a10f5e21a84fa"
+metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
