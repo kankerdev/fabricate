@@ -6,7 +6,7 @@ hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "7399a6a32b0b5416f4fa08e4b57a01552d8a047f2ec184783d50935337d55c07"
+hash = "39905f1642e4b45e05ccb61f675c174ead17fa4f41d1dc5e2159012654f05f5e"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -26,7 +26,7 @@ hash = "6841144f8f5dbd2593b5db1e845193d0e9dc89c9720415f736a482e57f271227"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "de9b62f3cfe7177f33ea481b620467cc0fda1c8582c1294d2b27a7882d7936ca"
+hash = "1b711f290d13c51719d2e915d25594b70fd2e3256c25ea9709024d0319275a1a"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "7b264a2274bf9d1a5a87a0f7b605791227d2cc2702214d1ab222221c9fc1f9ab"
+hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
@@ -243,6 +243,11 @@ hash = "e517fb482a615ff0cd06d369b3a5b61080a12dc57ee04ee54ecd3b05cb0142fa"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "84f316671a16609ace1010b10f630ff04f12d3dac46fe48a0ce5d27f313260a6"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
 metafile = true
@@ -300,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "522b331e43a48df9cd4c1a0418a6467503d2d2fe826ecd7a5073ecd10f72ef08"
 metafile = true
 
 [[files]]
@@ -373,13 +383,18 @@ hash = "604743734fb957f47e7ce8140f1124e0898082eec40a81899b1a662d844c2a14"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9884c9af4ba83cbdf8bc6b102a257068566641a17d2c6dde63dcf41d0dd0603e"
+hash = "60ee9f98a668a2af64c6d87c11dff81291ce0e39c42f360a9b34e4aee852f36b"
 metafile = true
 
 [[files]]
@@ -627,6 +642,10 @@ hash = "85a9c654f8d7c21db849ffe58f7e53df91f95c6fa4b56740860487f7bb0b60ad"
 metafile = true
 
 [[files]]
+file = "mods/mod-loading-screen-1.0.4.jar"
+hash = "aeed0b85fe07df8d83a07bb7ecd316e44542043e1f6ed11d56fb1dc0bb6eabf1"
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
@@ -772,6 +791,11 @@ hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
+file = "mods/tips.pw.toml"
+hash = "3f34eae85f3cf8775e965d58ef584cbe864e78592fa00b59eea50264e1aa68dd"
+metafile = true
+
+[[files]]
 file = "mods/title-fixer.pw.toml"
 hash = "70bc0cf02e30f3c04bd0691237f227e79198944c36fc65eff4e6a88c647b0121"
 metafile = true
@@ -813,12 +837,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1eb8c3708ee95ced6bccf1ebcb95a6c99a5e253eb126445df86114ad64c7af20"
+hash = "051834b92b9cdf5f93e61c20e167c9f456a59b1c683667b867f675c28a25f67c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "aacfaf81d0b4f7373b28d7adb649b3ba2c84268ee6d323b78e98e831daa9822a"
+hash = "1feec673626f914308c517f2ed29317cb1ca3124d7854667449cf8bbed3e126d"
 metafile = true
 
 [[files]]
