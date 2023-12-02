@@ -1,0 +1,9 @@
+name = "fabricate-mls"
+filename = "fabricate-mls-0.1.0.jar"
+# Bundling this with the server will crash the server
+side = "client"
+
+[download]
+url = "https://cdn.kanker.dev/fabricate-mls-0.1.0.jar"
+hash-format = "sha256"
+hash = "90f1dbb131776d95b9b5b85a38a63f1dbb585e421fa8075952990c47904851c4"

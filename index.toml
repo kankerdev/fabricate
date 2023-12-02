@@ -453,6 +453,11 @@ hash = "3a600f4350a6d2251b0021908b43c95f5732791a6d35cc2b3df3cf4b542995d7"
 metafile = true
 
 [[files]]
+file = "mods/fabricate-mls.pw.toml"
+hash = "39ac15bc0d29181ccb9dda9aff094723ea5c9c88ce0678f2af5d7a66195e9658"
+metafile = true
+
+[[files]]
 file = "mods/fadeless.pw.toml"
 hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
@@ -640,11 +645,6 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "85a9c654f8d7c21db849ffe58f7e53df91f95c6fa4b56740860487f7bb0b60ad"
-metafile = true
-
-[[files]]
-file = "mods/mod-loading-screen.pw.toml"
-hash = "adc62731dc6b00a9fcaa122336f4a0b3ac154250b1f2f4d16e2a10f5e21a84fa"
 metafile = true
 
 [[files]]
