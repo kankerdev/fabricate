@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricate-assets.pw.toml"
-hash = "3a600f4350a6d2251b0021908b43c95f5732791a6d35cc2b3df3cf4b542995d7"
+hash = "da4b61191aae3b66eb9214f5375cc9e26b371693b09a0be0afa20e50fa54d22f"
 metafile = true
 
 [[files]]
