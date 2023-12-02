@@ -1,5 +1,6 @@
 name = "fabricate-assets"
 filename = "fabricate-assets-0.1.1.jar"
+side = "client"
 
 [download]
 url = "https://cdn.kanker.dev/fabricate-assets-0.1.1.jar"
