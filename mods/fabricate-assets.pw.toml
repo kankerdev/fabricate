@@ -1,8 +1,9 @@
 name = "fabricate-assets"
 filename = "fabricate-assets-0.1.1.jar"
+# Due to the current modmenu dependency, this wouldn't work server-side...
 side = "client"
 
 [download]
 url = "https://cdn.kanker.dev/fabricate-assets-0.1.1.jar"
 hash-format = "sha256"
-hash = "1ba79aa7c9da145d8cac6768bdfea2debaa83e04328cb11cd282ac51ab0f862f"
+hash = "9cbd9c9885be8f756385479e10cc1bbd1982ab5df8a4699186780adab2b96156"
