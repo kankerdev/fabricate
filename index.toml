@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricate-mls.pw.toml"
-hash = "39ac15bc0d29181ccb9dda9aff094723ea5c9c88ce0678f2af5d7a66195e9658"
+hash = "dcf3feed5cbb02be16e70b1339acba44b86a888bcabcde91890ab3520bcde09d"
 metafile = true
 
 [[files]]

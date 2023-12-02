@@ -6,4 +6,4 @@ side = "client"
 [download]
 url = "https://cdn.kanker.dev/fabricate-mls-0.1.0.jar"
 hash-format = "sha256"
-hash = "90f1dbb131776d95b9b5b85a38a63f1dbb585e421fa8075952990c47904851c4"
+hash = "481d9bd60ae6e3d8d32443518a4c01f30ef3f86daf7700b135cd0306f8c02519"
