@@ -1,9 +1,9 @@
 name = "fabricate-assets"
 filename = "fabricate-assets-0.1.1.jar"
-# Due to the current modmenu dependency, this wouldn't work server-side...
+# TODO: Remove funny client side dep so it can be installed server side
 side = "client"
 
 [download]
 url = "https://cdn.kanker.dev/fabricate-assets-0.1.1.jar"
 hash-format = "sha256"
-hash = "9cbd9c9885be8f756385479e10cc1bbd1982ab5df8a4699186780adab2b96156"
+hash = "a6624df640c20f4af503114bd638de4f28aa801a1b0173feb9b654d7b8c89abc"
