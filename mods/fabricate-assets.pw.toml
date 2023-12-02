@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://cdn.kanker.dev/fabricate-assets-0.1.1.jar"
 hash-format = "sha256"
-hash = "489bfee5e4b37955c33f8b1c3cd80eefcd2c28027049e6a52cc6f5abd1b0022f"
+hash = "1ba79aa7c9da145d8cac6768bdfea2debaa83e04328cb11cd282ac51ab0f862f"
