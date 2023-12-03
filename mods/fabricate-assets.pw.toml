@@ -1,9 +1,9 @@
 name = "fabricate-assets"
-filename = "fabricate-assets-0.1.1.jar"
+filename = "fabricate-assets-0.1.2.jar"
 # TODO: Remove funny client side dep so it can be installed server side
 side = "client"
 
 [download]
-url = "https://cdn.kanker.dev/fabricate-assets-0.1.1.jar"
+url = "https://cdn.kanker.dev/fabricate-assets-0.1.2.jar"
 hash-format = "sha256"
-hash = "25cc0602f413a538c05c54df5ec8dc5d8cd2055675c41dd0e34300a508d60801"
+hash = "56ec08ee51a5d83982353c4a84ccd6da41c05b4dbb6da0ef2f8cee4cc14a2e5f"
