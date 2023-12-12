@@ -1,0 +1,7 @@
+name = "create-fabric"
+filename = "create-sodium-fix-0.5.1-d-build.1161+mc1.20.1.jar"
+
+[download]
+url = "https://cdn.kanker.dev/create-sodium-fix-0.5.1-d-build.1161+mc1.20.1.jar"
+hash-format = "sha256"
+hash = "39df866ece9ac9d4eb22f470a58af65a4698e982eb9ebfc18e5ed3473ba1c189"
