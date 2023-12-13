@@ -1,0 +1,13 @@
+name = "Just Enough Effect Descriptions (JEED)"
+filename = "jeed-1.20-2.1.6-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EO27GKs1/versions/E0zeBCwl/jeed-1.20-2.1.6-fabric.jar"
+hash-format = "sha1"
+hash = "c9b7789e9bce1af1ff9553fe9341239ffffe4f48"
+
+[update]
+[update.modrinth]
+mod-id = "EO27GKs1"
+version = "E0zeBCwl"

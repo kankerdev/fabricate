@@ -393,11 +393,6 @@ hash = "604743734fb957f47e7ce8140f1124e0898082eec40a81899b1a662d844c2a14"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
@@ -405,16 +400,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "f6d72dfe331d7f06e5b3471e4dba2675d59b8e15950a41268897f26230fdf795"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
@@ -440,11 +425,6 @@ metafile = true
 [[files]]
 file = "mods/expandingtechnologies.pw.toml"
 hash = "9d8afc1edc6f66525563cc86b4b39283fb5cddc48fe9afc8e2c9f8fa0a6884dc"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
 metafile = true
 
 [[files]]
@@ -565,6 +545,26 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "6a064723b625e1719a54c87fd5a61e637a4234d9c006e2d9d23c93cbb058d56a"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "878afeed5da92ecd79b16ea7c2d047e5152101a7eaad2927e6b0806768f00805"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "38b5f588f753e5e81f27d1697be38e259ba038db2ea470c78b90671869b6df7e"
 metafile = true
 
 [[files]]
