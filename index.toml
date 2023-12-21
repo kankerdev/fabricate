@@ -675,11 +675,6 @@ hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "c59f2b9a331e1b3ab64ede5dd803af9c5bfe50eea295df3bbcb8915a04723333"
-metafile = true
-
-[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "ae6683a2630702fdaec38291727f15dcc6736bd1813d31c525268a528e090dd3"
 metafile = true
