@@ -1,15 +1,15 @@
 name = "Fabricate"
 author = "spectrapulse"
-version = "0.1.8"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9eb797a1c385b04aa67958317fb7b6516908a0078d74dd027c399266ec66f22b"
+hash = "b50824db6245c702833a071edc1c011fa547957b49c4387fa2757269e62155b0"
 
 [versions]
-fabric = "0.15.1"
+fabric = "0.15.3"
 minecraft = "1.20.1"
 
 [options]

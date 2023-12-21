@@ -1,7 +1,7 @@
 name = "fabricate-assets"
-filename = "fabricate-assets-0.1.3.jar"
+filename = "fabricate-assets-0.1.4.jar"
 
 [download]
-url = "https://cdn.kanker.dev/fabricate-assets-0.1.3.jar"
+url = "https://cdn.kanker.dev/fabricate-assets-0.1.4.jar"
 hash-format = "sha256"
-hash = "afa777788511ce74df06bf7e07bd3b5a7887800ef585bef9330abd5d7d739dbf"
+hash = "d0c1d7de0d0e37dfb74796de2ab30a35309470e1163cabfc497494dc0af58042"

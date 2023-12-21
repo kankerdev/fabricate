@@ -1,13 +1,13 @@
 name = "Create: Garnished"
-filename = "garnished-1.3-hotfix-2+1.20.1.jar"
+filename = "garnished-1.4+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6e2SlzR4/versions/2g5VqW84/garnished-1.3-hotfix-2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/6e2SlzR4/versions/5yzzG1sM/garnished-1.4%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "9e1977a7913c613353c2b4ae4d68f35f2a8964f8"
+hash = "7d5132d0f349b8e96ad65e753c7db13baa3c6606"
 
 [update]
 [update.modrinth]
 mod-id = "6e2SlzR4"
-version = "2g5VqW84"
+version = "5yzzG1sM"

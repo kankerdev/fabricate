@@ -1,0 +1,13 @@
+name = "More player badges (bss addon)"
+filename = "morepbadges-1.0+fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R3CET9PN/versions/2hYofQtO/morepbadges-1.0%2Bfabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "69ca3077eb8c5ca711db2d9d3e0b43a8a4bf1a20"
+
+[update]
+[update.modrinth]
+mod-id = "R3CET9PN"
+version = "2hYofQtO"

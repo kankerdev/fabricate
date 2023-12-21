@@ -1,0 +1,8 @@
+{
+  "CONFIG_VERSION": 1,
+  "action_wheel_button": "key.keyboard.keypad.5",
+  "popup_button": "key.keyboard.keypad.8",
+  "reload_button": "key.keyboard.keypad.7",
+  "panic_button": "key.keyboard.keypad.9",
+  "wardrobe_button": "key.keyboard.keypad.4"
+}
