@@ -11,3 +11,8 @@ hash = "458253f15e3c5bb0d5354f42f3eedc5b1a71472c"
 [update.modrinth]
 mod-id = "qANg5Jrr"
 version = "vVFlVRt7"
+
+[option]
+optional = true 
+default = true
+description = "Open a LAN server to anyone, anywhere, anytime. Useful if you would like other players to join your singleplayer world. Just start a LAN server from the pause menu and you will be provided a link that you can give to your friend which you would like to join your singleplayer world. No need to port forward!"

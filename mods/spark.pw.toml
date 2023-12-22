@@ -1,0 +1,18 @@
+name = "spark"
+filename = "spark-1.10.53-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/XGW2fviP/spark-1.10.53-fabric.jar"
+hash-format = "sha1"
+hash = "252de323db10d2b49ef74f8e7a6a5c72929be140"
+
+[update]
+[update.modrinth]
+mod-id = "l6YH9Als"
+version = "XGW2fviP"
+
+[option]
+optional = true 
+default = false
+description = "spark is a performance profiler for Minecraft clients, servers and proxies. This mod allows you to diagnose performance issues in a more extensive way than Observable. Usually using these together can be used not just to diagnose what in the world is lagging your game but also what mod has what amount of performance impact on your game. Not included by default but usefult to install if you happen to have issues with your game stuterring."

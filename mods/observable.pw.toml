@@ -1,0 +1,18 @@
+name = "Observable"
+filename = "observable-4.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/OEL5iDIN/observable-4.4.0.jar"
+hash-format = "sha1"
+hash = "ce61324311987cafe5d3cb9d85ed0b5c4309b74d"
+
+[update]
+[update.modrinth]
+mod-id = "VYRu7qmG"
+version = "OEL5iDIN"
+
+[option]
+optional = true
+default = false
+description = "A spiritual successor to LagGoggles for Minecraft 1.16+, Observable profiles (tile) entities and shows you what's taking up tick time and where. This mod is useful to debug your builds and machines with to see how much performance impact they have on the game. This can only be used in singleplayer or self-hosted servers as running a profiling session does affect server performance. Having this mod installed also may make your game performance slightly worse but from my own experience this happens to be negligible. Optional mod and there for not provided by default."

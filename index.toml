@@ -6,7 +6,7 @@ hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "c41befb9d0d00168d676f35c639fa063982c991797d30a6f31be915bcee6a461"
+hash = "d4142714fbebc0c820d66423d4e58f5ba9c33f0dd9647d7bbf5816d479fa75c4"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -14,7 +14,7 @@ hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
 file = "config/bcc.json"
-hash = "9493444d2c8397891948eff1fa475c973b68ef54296a66d9888704afef3eedf7"
+hash = "70589dba3aaf43025f391e553ae114e4d4ea3024523ff024dc8d9de7619028da"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -30,7 +30,7 @@ hash = "e906754e50732e075656ab9c987ec4e99c706fc8b5facd3cf7534344f8b848cc"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6b2e6e5eeca6a195d7835640345eb816576f4648131d898cff5515ef9da01325"
+hash = "0ccab09a60a48925ebdf913a6aa240c080a8d0abdd6b7f13e445f9f64246c0a6"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -295,6 +295,11 @@ hash = "c41aba428df01df6f64f4ab5ff7cdcd8fa49332e610866fdefc5ea8fb86e9e9b"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "b80619c5dc3591eb1bf6d034f1c5e4af21965302c194b98c7d308088e9583d2f"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "06842d3f8f0921d941c64a048587e72e111f66b5b1b5e9118188369b4b73cbec"
 metafile = true
@@ -471,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
+hash = "375696eda432b659fc32ba6e9939246e939e1e43fb702ad6a8fe36313ecffbd8"
 metafile = true
 
 [[files]]
@@ -785,8 +790,23 @@ hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c802355a7c60c6a8c91f654b8977e273ee7f3d5be5cf546ab17af2f5557950f8"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "6940b4d183b8049b679423cf377a65b0c235409c553b9e763f0860c75fd59770"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "b249dcabe7a381ffd16941000816d6618bb1bdb6f1830e8ad1517bccf24e5736"
 metafile = true
 
 [[files]]
@@ -922,6 +942,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "03536075b1025ddb3d1f61d614929f3ee8454920f78c995a101eedbc5a74aa7c"
 metafile = true
 
 [[files]]
