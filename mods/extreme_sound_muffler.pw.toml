@@ -1,0 +1,18 @@
+name = "Extreme sound muffler"
+filename = "extremesoundmuffler-3.41-fabric-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/ldNGPYFy/extremesoundmuffler-3.41-fabric-1.20.jar"
+hash-format = "sha1"
+hash = "074b319a83d757ee6954b5cb9d8d480dc817aaea"
+
+[update]
+[update.modrinth]
+mod-id = "5IIKsxiL"
+version = "ldNGPYFy"
+
+[option]
+optional = true
+default = false 
+description = "Extreme sound muffler is a client side mod that allows you to muffle sounds selectively. This mod can be used if you would like to have more precise control over sounds and their volume. If a sound is bothering you and the default in-game volume panel isn't enough, this may help you out!"

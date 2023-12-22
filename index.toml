@@ -6,7 +6,7 @@ hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "d4142714fbebc0c820d66423d4e58f5ba9c33f0dd9647d7bbf5816d479fa75c4"
+hash = "1d1602bc7c10a6ad148aed1f5c91e3efbc38f46376c45b72e0796bba21d89009"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -14,7 +14,7 @@ hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
 file = "config/bcc.json"
-hash = "96ed9c66e68aec50d31f87d17cdb8c644f7475b8c38d8d99c9fdaa6ab0944b21"
+hash = "3946041c5d224eba5eeec5b6d9a438ece655b3c5f0009f950e9a8f8d01aaf829"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -30,7 +30,7 @@ hash = "e906754e50732e075656ab9c987ec4e99c706fc8b5facd3cf7534344f8b848cc"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0ccab09a60a48925ebdf913a6aa240c080a8d0abdd6b7f13e445f9f64246c0a6"
+hash = "95f6546b086d766eccf872658d26bbc1a3162444033bdf9263bd6f0b30025178"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -540,6 +540,11 @@ hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "af429ce55f3d97cef3a9360251ef219bc8100128cfec0887a8e9b06145ac4a2a"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
@@ -795,6 +800,11 @@ hash = "c802355a7c60c6a8c91f654b8977e273ee7f3d5be5cf546ab17af2f5557950f8"
 metafile = true
 
 [[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "1e77e4dbbdf9c7470833d981566e6dbbd5990d2aa945cfcd53042f8ebcd21501"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -992,6 +1002,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/url-music-discs.pw.toml"
+hash = "3df75e1a97ba5ca1de0af4ca1bbd9f5aa1169c646340f88526e908e8fb76bfb4"
 metafile = true
 
 [[files]]
