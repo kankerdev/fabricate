@@ -16,7 +16,7 @@ $regex = '"text": "Fabricate v\d*\.\d*\.\d*"'
 # Update pack compat checker versioning
 $file = ".\config\bcc.json"
 $regex = '"modpackVersion": "v\d*\.\d*\.\d*",'
-(Get-Content $file) -Replace $regex, ('"text": "Fabricate v{0}",' -f $args[0]) | Set-Content $file
+(Get-Content $file) -Replace $regex, ('"modpackVersion": "v{0}",' -f $args[0]) | Set-Content $file
 
 # Refresh packwiz index
 packwiz refresh

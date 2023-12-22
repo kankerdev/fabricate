@@ -14,7 +14,7 @@ hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
 file = "config/bcc.json"
-hash = "70589dba3aaf43025f391e553ae114e4d4ea3024523ff024dc8d9de7619028da"
+hash = "96ed9c66e68aec50d31f87d17cdb8c644f7475b8c38d8d99c9fdaa6ab0944b21"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
