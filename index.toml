@@ -418,11 +418,6 @@ hash = "120c13ce7fabf1ba68bf0594ca3445b34c9a9e47cbec376b354a868a3ae0bcff"
 metafile = true
 
 [[files]]
-file = "mods/create-air-fabric.pw.toml"
-hash = "d153a860a2af0eb91ea151aab929554bdc4e8ef6972a6e30016996743827ff0b"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "371eb3f11d3ffaaff2e4e08467df82a99452ac7aec72dd9324152be3a6c17763"
 metafile = true
