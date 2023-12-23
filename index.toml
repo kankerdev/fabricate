@@ -928,11 +928,6 @@ hash = "dc0a117734b1153892a40e65301ee236c9dbe45930f04d7ab6967daaee11214a"
 metafile = true
 
 [[files]]
-file = "mods/ready-player-fun.pw.toml"
-hash = "9c6210f32b411001f4b0589aefa90fbe0e088df6e2a58580fb89b1c26c8171e3"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "fe4278916c7a5453dedeb4361817489ae9084bb0f2abba44b5164ec3293a491b"
 metafile = true
