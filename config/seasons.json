@@ -12,7 +12,7 @@
   "dimensionAllowlist": [
     "minecraft:overworld"
   ],
-  "doTemperatureChanges": true,
+  "doTemperatureChanges": false,
   "shouldSnowyBiomesMeltInSummer": true,
   "shouldIceNearWaterMelt": false,
   "biomeDenylist": [
@@ -21,9 +21,9 @@
   "isSeasonTiedWithSystemTime": false,
   "isInNorthHemisphere": true,
   "isSeasonMessingCrops": true,
-  "isSeasonMessingBonemeal": false,
+  "isSeasonMessingBonemeal": true,
   "doCropsGrowsNormallyUnderground": false,
-  "doAnimalsBreedInWinter": true,
+  "doAnimalsBreedInWinter": false,
   "notifyCompat": true,
   "debugCommandEnabled": false
 }

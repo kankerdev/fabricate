@@ -50,7 +50,7 @@ hash = "3af41a502815600f1cd2440d327f68b164b250414aac44c0354adb342c290282"
 
 [[files]]
 file = "config/seasons.json"
-hash = "d596312020c39474b7acaa9f1ac0d889a0f9c2afde81f6bec513db37c59781a4"
+hash = "b72f84ebfe96c66998e921f12c5c3b549ddcf9373647bb9cc3cfdd17924f9ab2"
 
 [[files]]
 file = "config/vmp.properties"
@@ -690,11 +690,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
-metafile = true
-
-[[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "adc0ccaeb349ce8cbea71dbc33918e4bd9d77c5a7631defca225bc44935a0a63"
 metafile = true
 
 [[files]]
