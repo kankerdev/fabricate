@@ -6,7 +6,7 @@
     "winterLength": 672000
   },
   "seasonLock": {
-    "isSeasonLocked": true,
+    "isSeasonLocked": false,
     "lockedSeason": "WINTER"
   },
   "dimensionAllowlist": [
