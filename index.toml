@@ -50,7 +50,7 @@ hash = "3af41a502815600f1cd2440d327f68b164b250414aac44c0354adb342c290282"
 
 [[files]]
 file = "config/seasons.json"
-hash = "d330f5a7073f83a0d1a83a8d56cd7290b253e64b9edb669b7bf3ed84121d4cae"
+hash = "d596312020c39474b7acaa9f1ac0d889a0f9c2afde81f6bec513db37c59781a4"
 
 [[files]]
 file = "config/vmp.properties"
