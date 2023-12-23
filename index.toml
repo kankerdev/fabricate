@@ -150,6 +150,11 @@ hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "606274a1a5e95501bb8e589920a781f745d7bb976ef0906f8c04217963e241b9"
+metafile = true
+
+[[files]]
 file = "mods/additional-blocks-stone-edition.pw.toml"
 hash = "5016f686808ad83c15ebc9364a2ca9452fcc641fa6a64c48394009d1d6f7fc0b"
 metafile = true
@@ -301,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "06842d3f8f0921d941c64a048587e72e111f66b5b1b5e9118188369b4b73cbec"
+hash = "6cbd06b8908171c1fb79396acfc7f91f8c605c8718205ea9c1fe454ae2716094"
 metafile = true
 
 [[files]]
@@ -312,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
+metafile = true
+
+[[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "a58721796367f9247ad863b063d67638a6824dd0a342da690a0c1a0418e367e8"
 metafile = true
 
 [[files]]
@@ -400,6 +410,11 @@ hash = "120c13ce7fabf1ba68bf0594ca3445b34c9a9e47cbec376b354a868a3ae0bcff"
 metafile = true
 
 [[files]]
+file = "mods/create-air-fabric.pw.toml"
+hash = "d153a860a2af0eb91ea151aab929554bdc4e8ef6972a6e30016996743827ff0b"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "371eb3f11d3ffaaff2e4e08467df82a99452ac7aec72dd9324152be3a6c17763"
 metafile = true
@@ -422,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "94982cbfab37b39c59d750c7f66e9c88979398b0387490fb5db4f4ca2b9eadaf"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "62d2a0578959ce2ed450891edc4877bd15716bd2aa9ac7d01d5001c9343d0df1"
 metafile = true
 
 [[files]]
@@ -551,7 +571,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
 
 [[files]]
@@ -586,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "8da27b38858e516c3031685384ca90705b33a48ddafa04d89df9f9f6cf0dd355"
+hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
 metafile = true
 
 [[files]]
@@ -655,6 +690,11 @@ hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "adc0ccaeb349ce8cbea71dbc33918e4bd9d77c5a7631defca225bc44935a0a63"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
@@ -681,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "ae6683a2630702fdaec38291727f15dcc6736bd1813d31c525268a528e090dd3"
+hash = "97b4b3cf290685acfecd782c6d81ced4b1719b04c9909fb9d16fdad09e27a586"
 metafile = true
 
 [[files]]
@@ -766,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a99e2672e7585f6e31278a4a18b37865ab780175b93eb740064a692635f36a1b"
+hash = "3de9862896a2880f19867f600f5ca6d9c89865493f405c378f0d9c224152c2f6"
 metafile = true
 
 [[files]]
@@ -776,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "db0666dfafeb0790232e8306a468b5725f372114d4bcd9f2743994e62458a3e7"
+hash = "233e9c41f05e0c301c0d80bfef77f409c16f73959587b5db44269186e96f94d0"
 metafile = true
 
 [[files]]
@@ -831,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "69af36e0a1e29e69ccecf4379845a5b25f2a00b9b0c2209d24437a3bac7cf9d0"
+hash = "2ae6b77d9b9ed0ec949263ce76ee00fcc9b0c0b34757924b4c6b5ec1362367d2"
 metafile = true
 
 [[files]]
@@ -880,6 +920,11 @@ hash = "dc0a117734b1153892a40e65301ee236c9dbe45930f04d7ab6967daaee11214a"
 metafile = true
 
 [[files]]
+file = "mods/ready-player-fun.pw.toml"
+hash = "9c6210f32b411001f4b0589aefa90fbe0e088df6e2a58580fb89b1c26c8171e3"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "fe4278916c7a5453dedeb4361817489ae9084bb0f2abba44b5164ec3293a491b"
 metafile = true
@@ -897,6 +942,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
 metafile = true
 
 [[files]]
@@ -922,6 +972,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "970b3eaa06a944fcb03f669d71f4d77836d745ef0f7d6d848a746c7c7857620e"
 metafile = true
 
 [[files]]

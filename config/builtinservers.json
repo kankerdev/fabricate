@@ -1,0 +1,15 @@
+{
+  "badgeVisible": false,
+  "builtinServers": [
+    {
+      "name": "Fabricate [Official]",
+      "address": "fabricate.kanker.dev",
+      "forced": true
+    },
+    {
+      "name": "Fabricate [Beta]",
+      "address": "fabricate.kanker.dev:25567",
+      "forced": false
+    }
+  ]
+}
