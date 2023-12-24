@@ -3,11 +3,11 @@ filename = "everycomp-1.20-2.6.18-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eiktJyw1/versions/ZOwlUSVB/everycomp-1.20-2.6.18-fabric.jar"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/JNijNm1M/everycomp-1.20-2.6.18-fabric.jar"
 hash-format = "sha1"
-hash = "15c2357f428ad104d12ac2baa964a9ac6d1f271a"
+hash = "8fe9c75d323a379e90166e8003c85901cfce18d4"
 
 [update]
 [update.modrinth]
 mod-id = "eiktJyw1"
-version = "ZOwlUSVB"
+version = "JNijNm1M"

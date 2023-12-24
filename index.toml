@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "9bc11983cc086e4e8123050788138043689f6c7a1af03d048c8830a165a1921e"
+hash = "4edd1355c4ffd33c391b6ae91d69f589c08e4b699b63788e59340e0a032ff348"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "b129adfd470c5c93cf451bcb03db8d7c800d2477f9b32d77c6b369a36f0d6d38"
+hash = "f23764697663320022c67c8aa8095e4c6c7508a19ab8c24d346a847a67dd7920"
 metafile = true
 
 [[files]]
@@ -799,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3de9862896a2880f19867f600f5ca6d9c89865493f405c378f0d9c224152c2f6"
+hash = "2205cb06ba208c342a08f3f2e14bd2bbebdfd2ff0be76b22170f231c01b7f76e"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "233e9c41f05e0c301c0d80bfef77f409c16f73959587b5db44269186e96f94d0"
+hash = "17bd398791730d14f966b2b5b2dbb73e592ac9bc44f26768d95cbb63076cfa90"
 metafile = true
 
 [[files]]
@@ -964,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "970b3eaa06a944fcb03f669d71f4d77836d745ef0f7d6d848a746c7c7857620e"
+hash = "0f86f4abd5a3dd8f9e76d13f8d0955f221f438a330721dd60476ed707100c57f"
 metafile = true
 
 [[files]]
