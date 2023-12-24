@@ -6,7 +6,7 @@ hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "1884d39ce6885dc0988a3849de70bc83d285bebc4f6cc330830288bbb99e9725"
+hash = "3261b0db216b05ce5f4e38e0332ee2eb633b0f6069207d33bbdca24874a9d6f1"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -14,7 +14,7 @@ hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c54b18f763391a7f3bab197ff9cd59179b04c743031dac0d3b807b4c22bf99c9"
+hash = "1bfcb98c29df1204f82536e0c867e49e1f4c7b6224162decfc6611d0e2405a73"
 
 [[files]]
 file = "config/builtinservers.json"
@@ -34,7 +34,7 @@ hash = "e906754e50732e075656ab9c987ec4e99c706fc8b5facd3cf7534344f8b848cc"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c6877607c5ec82c7b62b98b48e9a7a8de6628b459f915fe010b2c95a5cbdd1e4"
+hash = "2fd293229700082b49e2baab5265468629d5975399adb4177b1f9e3b73aca037"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
