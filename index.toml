@@ -473,11 +473,6 @@ hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "ca9a0b70fb11328d6868ab909d4d92ec1160e530f19a31387f26e0abec42f5af"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -709,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
+hash = "559a46acee6bd5368fac543cb90902a7eb692426329d1041af790d8a22167154"
 metafile = true
 
 [[files]]
