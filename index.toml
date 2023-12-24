@@ -33,6 +33,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "e906754e50732e075656ab9c987ec4e99c706fc8b5facd3cf7534344f8b848cc"
 
 [[files]]
+file = "config/figura.json"
+hash = "5afa5fdb691945c1ec26029c6945717556c037c106f7af6212de09c5c5c83b06"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "916d12737c468c923d9f6bc129d2bb5caecea40b65b82329aad0bf7a4fbc0264"
 
