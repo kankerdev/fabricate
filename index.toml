@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "371eb3f11d3ffaaff2e4e08467df82a99452ac7aec72dd9324152be3a6c17763"
+hash = "67f21a923177c775de35bc084fa06a3c59697d7beda52e93f1b5bb12ad595815"
 metafile = true
 
 [[files]]
