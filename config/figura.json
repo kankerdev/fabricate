@@ -1,0 +1,13 @@
+{
+  "CONFIG_VERSION": 1,
+  "nameplate_render": 1,
+  "iris_compatibility_fix": 1,
+  "render_debug_parts_pivot": 2,
+  "allow_fp_hands": true,
+  "action_wheel_button": "key.keyboard.grave.accent",
+  "has_paperdoll": false,
+  "paperdoll_always_on": false,
+  "default_permission_level": 4,
+  "easter_eggs": false,
+  "gui_fps": true
+}
