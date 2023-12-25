@@ -15,4 +15,4 @@ version = "m0Dd8Cjy"
 [option]
 optional = true
 default = true
-description = "Mouse Tweaks replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel. Should have no performance impact."
+description = "Mouse Tweaks replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel. Should have no performance impact. Turn this off if you prefer the Vanilla behavior."

@@ -1,0 +1,18 @@
+name = "WorldEdit"
+filename = "worldedit-mod-7.2.15.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4586218
+project-id = 225608
+
+[option]
+optional = true 
+default = false 
+description = "A Minecraft Map Editor... that runs in-game! With selections, schematics, copy and paste, brushes, and scripting. Use it in creative, or use it temporarily in survival. It's recommended to also install worldedit-cui for a visual representation of your selections in game!"

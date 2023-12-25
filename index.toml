@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+hash = "c2b2c033493768fa001f8869e0655eb22e5512056d42b5ac7834e00dc416826d"
 metafile = true
 
 [[files]]
@@ -369,6 +369,16 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "4bf8d976190019f00b51c5d6a125a8f8fc4e7992d792c4e4b646bc7e882a9d2d"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "f9843b2419b9e901fffce88ec77eff0aa318a93eead6ddae686904d69188766a"
 metafile = true
 
 [[files]]
@@ -702,6 +712,16 @@ hash = "f89e851b9b254a3bfc5315021ccd6d739061978d98284a3681dc24b251f7d812"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "42c9ca133a0aff95ec61d969fdfe7427a86d1c93d280bd49f4e9c5e9ee0c0521"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3f8037417d1121b5a5046321b01e9ac8006d1c4bd8fd3cf5387721991c4a7cee"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "f150264c0991c3faa578a2669ccfb3964850f6d759acc84dad0b545abd9c8915"
 metafile = true
@@ -729,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "d4bc40fce4518945f624f3a5e4e9e619594effa0544611d6ced73fdc9c204781"
 metafile = true
 
 [[files]]
@@ -813,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "17bd398791730d14f966b2b5b2dbb73e592ac9bc44f26768d95cbb63076cfa90"
+hash = "87d55e42e8095facbf1c4b28432ea0a4d6d08a0aa3add54a3b07c2fc74bcc129"
 metafile = true
 
 [[files]]
@@ -823,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "eb9ed14436b79290cec3dfe2a87c0b32d0f369859ceb98834a24ee580c61da88"
+hash = "20ab83b06dde6be222b89264248685f71bd0650ec0b8828e61b45b8ed69d2482"
 metafile = true
 
 [[files]]
@@ -833,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "c802355a7c60c6a8c91f654b8977e273ee7f3d5be5cf546ab17af2f5557950f8"
+hash = "aebf590eb767bb5e69cbb73612c8e19e047a6735008b1e6401dcac7f1ba46ef3"
 metafile = true
 
 [[files]]
@@ -1032,6 +1057,11 @@ hash = "1c016f800988efb78998ad081203e9789f720d9ae81826fd8c191eecdcc15ad3"
 metafile = true
 
 [[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "2d9c6c4748dfbd4e375b729e3b053e6c1636e4edb0649fd2ff7c7ae9b5582894"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "f4899afec6500b2a8e3f061abbb6bc34287f3f6992b9e24ba4706d4dad825cc4"
 metafile = true
@@ -1062,6 +1092,11 @@ hash = "66f3fa31e845eb078ee8047e6a1323237b98d2fd6101c17b18176f79aa686223"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "7fdd98c4b5d5540369082a7d3f28b35e8768cc7669ef3d42694c4d2b1fc0ce19"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
@@ -1069,6 +1104,16 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-cui.pw.toml"
+hash = "4ce271bb9bd09efeb327bb27ff47182025511adb2c015132e1c34b7433bb0f70"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "705715b68d841bb8e67e726b93722a5a189a9ffe20eda1466e477a970cbb8383"
 metafile = true
 
 [[files]]

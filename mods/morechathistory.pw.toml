@@ -11,3 +11,8 @@ hash = "b23419da24f1c7ae16c6e77e992a38491cccf2c8"
 [update.modrinth]
 mod-id = "8qkXwOnk"
 version = "b1apT2G2"
+
+[option]
+optional = true
+default = true
+description = "This mod increases the maximum length of the chat history, from the vanilla 100 messages to 16384. Should have no noticable performance impact but may lead to slightly more RAM usage."
