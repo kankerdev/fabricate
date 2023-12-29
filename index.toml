@@ -808,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/missions.pw.toml"
-hash = "b0f1664a55f14b6393518174d310c35cb74c2c84da80e756e4ca691703ca1d10"
+hash = "3b8ce41d8e7485237085a88dba42cc2d50ddfff0fb4746f1435f57502b8017d2"
 metafile = true
 
 [[files]]
