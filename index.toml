@@ -6,7 +6,7 @@ hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "fa979b56f1a9e48e39d0302639322276a5789eb2bb0c0a83b3ef507287005437"
+hash = "89226993cb2fe24f9c55d34e7d86578c5f10e75b2197f92b40df131cf211a3ad"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -14,7 +14,7 @@ hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
 file = "config/bcc.json"
-hash = "a6306f83a3ceec365c7429298a70fefdccbc5e6c48b24d19bb47d8079be480c3"
+hash = "6362e003ed2ae14a13dc04bf9214f442da50028b16b91a112042fb40d0e16241"
 
 [[files]]
 file = "config/builtinservers.json"
@@ -38,7 +38,7 @@ hash = "5afa5fdb691945c1ec26029c6945717556c037c106f7af6212de09c5c5c83b06"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f08565e99dcf36b7d5ab208a844af946be143cc1f81864219981028cbe0419e4"
+hash = "cd5be6ae331794c736dc566f1bc076b4a1c64f7f4d09c66e9726980a4dd6eaea"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -155,6 +155,18 @@ hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
 [[files]]
 file = "config/yosbr/xaeroworldmap.txt"
 hash = "051e6deca867cbc8356453350f4a2a5c072fc2851e590c1011f1513df8191325"
+
+[[files]]
+file = "figura/cache/avatars.nbt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "figura/cache/permissions.nbt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "figura/cache/resources/hashes.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -747,6 +759,11 @@ hash = "40e13d94cf3fa1424afc5ec2c5e0d3ec527998b3861cc2fd36e423bff1577081"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
 metafile = true
@@ -808,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/missions.pw.toml"
-hash = "3b8ce41d8e7485237085a88dba42cc2d50ddfff0fb4746f1435f57502b8017d2"
+hash = "12e4401a86a0ca7ed7b7891e18b1f1e401017e9a2f0ac8553bd6cedd916c75e0"
 metafile = true
 
 [[files]]
@@ -824,6 +841,16 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "05375196fd872971a01edda09dad35f671de80df363ee68a6abd96557b62e337"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "760f3597f8909bf7801717f8a5f6144cb1b691f10b92343bf8f44aec9c1ddbe5"
 metafile = true
 
 [[files]]
@@ -993,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "85016d351a849b182efa8a31c3b38cc622e0166f2fe60634c65e63ea05782bb2"
+hash = "4c4c1a7f197fbb0b18a38a3897e0f3f2ebae2e40b129e1da8618fc25c4ef092a"
 metafile = true
 
 [[files]]
