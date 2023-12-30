@@ -157,6 +157,18 @@ file = "config/yosbr/xaeroworldmap.txt"
 hash = "051e6deca867cbc8356453350f4a2a5c072fc2851e590c1011f1513df8191325"
 
 [[files]]
+file = "figura/cache/avatars.nbt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "figura/cache/permissions.nbt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "figura/cache/resources/hashes.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
 metafile = true
