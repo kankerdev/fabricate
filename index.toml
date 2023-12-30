@@ -6,7 +6,7 @@ hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "df47b5b0e400be9a929e28351f55cc5e8bb388bb3cacbc5a269ecd8d0c806451"
+hash = "3c1eb019dbcbab46360bfcc1c9c8536ef7b46fa6fe572d2a7299b32b1601b4d0"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -14,7 +14,7 @@ hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2caad3220515f7821aac8d20c96dd8fee99944f11cb19582702e367fb53aefaf"
+hash = "bfba67422d2045e1a8fd25b8e7381032ddf27c0d9686d7fe8e1f004cff70aa84"
 
 [[files]]
 file = "config/builtinservers.json"
@@ -38,7 +38,7 @@ hash = "5afa5fdb691945c1ec26029c6945717556c037c106f7af6212de09c5c5c83b06"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8efce03a6b9598a8bcd3be8ca168a4ff94574a2f3ce2d981dfef1aff1e197d0e"
+hash = "9871b448e7c0ddd6cb7960fbdeed047c4deacc14a6c2d54bc8c6345830410677"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "56d57a869101dfd6784c044fd4fd694c9a527581079baf44d9dfbe8382b39a29"
+hash = "11ea1ffcee9c24b49089fe3c536a1ab6c34536da79cf287e8286b85606fcec89"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "4edd1355c4ffd33c391b6ae91d69f589c08e4b699b63788e59340e0a032ff348"
+hash = "60cb0d61b96d01cfc30dcbd38b43f74bc4a139bb0e57877afd5637eb5527f24c"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/casualness-delight.pw.toml"
-hash = "e5687d016316eef54c3d11d950f17059b59ff08b305d7d17b16ac99daa74525c"
+hash = "11916c8a95686e37afb3f0f40ee603c61c994971befa5d0ce16ae73c7d60f341"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "d6c50a4461c448090b9f262a2eca3f98cc7627bed654690e44d09f68c55357b0"
+hash = "4175b5ae65bfff65d1f04f908aa1aa894c9e7131d10383edb874542866276272"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b9cd400ba7e738f6c5e0d4b596d1c9a2b6348bd4f2579c9df4cc865e138f2b59"
+hash = "bc8ad6b422fead0c5798e670db44992fc8646e0bb2eba9861c28a72c6d6940c3"
 metafile = true
 
 [[files]]
@@ -747,6 +747,11 @@ hash = "40e13d94cf3fa1424afc5ec2c5e0d3ec527998b3861cc2fd36e423bff1577081"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
 metafile = true
@@ -808,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/missions.pw.toml"
-hash = "3b8ce41d8e7485237085a88dba42cc2d50ddfff0fb4746f1435f57502b8017d2"
+hash = "12e4401a86a0ca7ed7b7891e18b1f1e401017e9a2f0ac8553bd6cedd916c75e0"
 metafile = true
 
 [[files]]
@@ -827,6 +832,16 @@ hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "05375196fd872971a01edda09dad35f671de80df363ee68a6abd96557b62e337"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "760f3597f8909bf7801717f8a5f6144cb1b691f10b92343bf8f44aec9c1ddbe5"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2205cb06ba208c342a08f3f2e14bd2bbebdfd2ff0be76b22170f231c01b7f76e"
 metafile = true
@@ -838,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "87d55e42e8095facbf1c4b28432ea0a4d6d08a0aa3add54a3b07c2fc74bcc129"
+hash = "545588787cd62823cd17222abe2f8928488796c13ff6abf4e15b695afd44f2d2"
 metafile = true
 
 [[files]]
@@ -893,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "2ae6b77d9b9ed0ec949263ce76ee00fcc9b0c0b34757924b4c6b5ec1362367d2"
+hash = "977fdb7daeaa4a15d68e8509ebe774523b8d98250efeeb67f3721dd3ee5bc652"
 metafile = true
 
 [[files]]
@@ -993,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "0f86f4abd5a3dd8f9e76d13f8d0955f221f438a330721dd60476ed707100c57f"
+hash = "4c4c1a7f197fbb0b18a38a3897e0f3f2ebae2e40b129e1da8618fc25c4ef092a"
 metafile = true
 
 [[files]]

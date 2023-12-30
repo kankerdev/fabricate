@@ -1,12 +1,12 @@
 name = "Fabricate"
 author = "spectrapulse"
-version = "0.2.6b"
+version = "0.2.8b"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "90e51d68a4f6923d99cd6ea195ba80b217b50f223b135ea72d6e49d305159573"
+hash = "7d85c757b59e64930aad00d93dce57369f06ce9f9e24b56160afcf514f177f18"
 
 [versions]
 fabric = "0.15.3"
