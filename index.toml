@@ -6,7 +6,7 @@ hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "89226993cb2fe24f9c55d34e7d86578c5f10e75b2197f92b40df131cf211a3ad"
+hash = "41e2983775b1e9dedb7e8776de90b501bf7f9f196eb655bcf2bf505c9e765d66"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -14,7 +14,7 @@ hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6362e003ed2ae14a13dc04bf9214f442da50028b16b91a112042fb40d0e16241"
+hash = "b3433a5e77ef3bc37e44cd787635481ce5e26478aa43df2bf4782b18699b4e1f"
 
 [[files]]
 file = "config/builtinservers.json"
@@ -38,7 +38,7 @@ hash = "5afa5fdb691945c1ec26029c6945717556c037c106f7af6212de09c5c5c83b06"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cd5be6ae331794c736dc566f1bc076b4a1c64f7f4d09c66e9726980a4dd6eaea"
+hash = "b5c8bfbf2aa7cc6a45b06e1302c8c3dbd82d55fc79b570e28e5558d69584f1e9"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-blocks-stone-edition.pw.toml"
-hash = "5016f686808ad83c15ebc9364a2ca9452fcc641fa6a64c48394009d1d6f7fc0b"
+hash = "470f01f37ec31a8ab90a5d1c3ac6e1ce03e003e3df71bd8feee66f62deb77c2e"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "11ea1ffcee9c24b49089fe3c536a1ab6c34536da79cf287e8286b85606fcec89"
+hash = "4c30aece20eef15f09e0163db70b61deba5136d15c750e0592c101d3958bd8bc"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "8e00296445109e75257d2ed7ec364282fdfc7c6b1860e0fa3d69d0c1d17b3324"
+hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
 metafile = true
 
 [[files]]
@@ -385,12 +385,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4bf8d976190019f00b51c5d6a125a8f8fc4e7992d792c4e4b646bc7e882a9d2d"
+hash = "649894de1c6495e2c8977582f50fd49171428cefb4a8c7bc4789bad633a43789"
 metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "f9843b2419b9e901fffce88ec77eff0aa318a93eead6ddae686904d69188766a"
+hash = "6246b987e3e7d22e05ef3dd0dd9a22ad0067a6bdb7825d628353045f8f52fa04"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-garnished.pw.toml"
-hash = "9e096f91f8a8fe7a74e013b325d5dcf002f61ebbfd5a2a26c3fbbd33e196a62f"
+hash = "9ce39c503db5a08a90e07c76c96ca0407d8067e38d147464c32ec5bcd4a06665"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "4e2e4014bc2fd65512ea067da78d83a3f2935f47acc019c2e40adc3d2569af22"
+hash = "963099225c0452ef9446bb2c4c65df417283f165f899cd751e018592963c18be"
 metafile = true
 
 [[files]]
@@ -565,12 +565,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "19b66c624b16ef3616b9ab37f18b630f04088d18f4982a0d7df9204b55e31353"
+hash = "a4fc7e1049b3b97b3232262bbccf6e21d9247881e50664fee416ed069f0626ff"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "f23764697663320022c67c8aa8095e4c6c7508a19ab8c24d346a847a67dd7920"
+hash = "e1945e953258ae7b896d5d17505350153338a75b9dc503935edadae9f3912eaa"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
+hash = "eb4ad3d0bf47df52865312c343409c126379977f6036fd73cf6bf8d92952d67b"
 metafile = true
 
 [[files]]
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/missions.pw.toml"
-hash = "12e4401a86a0ca7ed7b7891e18b1f1e401017e9a2f0ac8553bd6cedd916c75e0"
+hash = "ca21d1f0fe0dd9c0780c32e1b74ee0372bd9aab5468a4ab5c37e6cd4e8848656"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "545588787cd62823cd17222abe2f8928488796c13ff6abf4e15b695afd44f2d2"
+hash = "ac382724d3a8b53d26fdb752e5798c1544b36f8e8f0fe167e297d1e2032d7fcc"
 metafile = true
 
 [[files]]
@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "6940b4d183b8049b679423cf377a65b0c235409c553b9e763f0860c75fd59770"
+hash = "7fab298dad7e8f3d062a73b9075dfdba98de2e12ba289f49e9c2e8fb3b0c05f3"
 metafile = true
 
 [[files]]
@@ -995,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
+hash = "e982b5f64e25e72f12673e456710f50b84295785541ebc6ddb2f8b898c2c12fb"
 metafile = true
 
 [[files]]
