@@ -6,7 +6,7 @@ hash = "43fd3124e9ed6d65d054f91b10cee42f8847ea03ff5c118441261c8cabafbd8a"
 
 [[files]]
 file = "config/barista/bar.json"
-hash = "41e2983775b1e9dedb7e8776de90b501bf7f9f196eb655bcf2bf505c9e765d66"
+hash = "e36b6eb07c51ed5f7187c532ce047634182f9661d1283ed53975aa6d6ad6bf5f"
 
 [[files]]
 file = "config/barista/icon/icon.png"
@@ -14,7 +14,7 @@ hash = "f4d472e32b03387dd2ef5d64cd031a492880df8f16b2f7e5c463f5b5a3647261"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b3433a5e77ef3bc37e44cd787635481ce5e26478aa43df2bf4782b18699b4e1f"
+hash = "50976fa5ad984b946b8eba835933223a0746d64925da1d5b3921fd2d2cbea12c"
 
 [[files]]
 file = "config/builtinservers.json"
@@ -38,7 +38,7 @@ hash = "5afa5fdb691945c1ec26029c6945717556c037c106f7af6212de09c5c5c83b06"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b5c8bfbf2aa7cc6a45b06e1302c8c3dbd82d55fc79b570e28e5558d69584f1e9"
+hash = "8c95234bd8b07b2ef4ab885172204261cf1f987b1be19bd70c99f710006ef9d8"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1171,6 +1171,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "441bb3a82f6d0b09cc10984cfd468f53bdd9879f7fda5b0299b53ccbf2ba7ca6"
 metafile = true
 
 [[files]]
