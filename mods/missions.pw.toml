@@ -1,13 +1,13 @@
 name = "Create: Missions"
-filename = "missions-fabric-0.2.4.jar"
+filename = "missions-fabric-0.2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KN33kvHF/versions/kEEoG2fL/missions-fabric-0.2.4.jar"
+url = "https://cdn.modrinth.com/data/KN33kvHF/versions/UdysdPYF/missions-fabric-0.2.5.jar"
 hash-format = "sha1"
-hash = "2efcf4db320300acacf31620ae4fc211a35680c9"
+hash = "ebdb993d2b529322fd3d0fa74b3035511c94fc4a"
 
 [update]
 [update.modrinth]
 mod-id = "KN33kvHF"
-version = "kEEoG2fL"
+version = "UdysdPYF"
